@@ -1,0 +1,32 @@
+{
+  "name": "@singularitycreations/ae-manager",
+  "version": "1.0.1",
+  "description": "Check AE startup file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singularitycreations/ae-manager.git"
+  },
+  "keywords": [
+    "After",
+    "Effects",
+    "startup"
+  ],
+  "author": "Eignart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singularitycreations/ae-manager/issues"
+  },
+  "homepage": "https://github.com/singularitycreations/ae-manager#readme",
+  "dependencies": {
+    "@singularitycreations/process-manager": "^1.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
