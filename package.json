@@ -1,6 +1,6 @@
 {
   "name": "@singularitycreations/ae-manager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check AE startup file",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/singularitycreations/ae-manager#readme",
   "dependencies": {
-    "@singularitycreations/process-manager": "^1.0.7"
+    "@singularitycreations/process-manager": "^1.0.6"
   },
   "devDependencies": {
     "eslint": "^5.15.3",
