@@ -1,7 +1,10 @@
 # AfterFX Manager
 NodeJS module for After Effects process. Starts AfterFX and monitors process status and checks
-is AfterFX running via startup file. Default startup file path is `C:\test\AeIsReady.json`. You can
-change this while initializing AEManager class, see examples below.
+is AfterFX running via startup file. Default startup file path is `C:\test\AeIsReady.json`. You can change this while initializing AEManager class, see examples below.
+`jsx/AeIsReady.jsx` script creates AE running check file (AeIsReady.json) if AE is ready.
+
+    Add jsx/AeIsReady.jsx file to C:\Program Files\Adobe\\[AE version]\Support Files\Scripts\Startup
+Create `C:\test\` folder or define new path where to check AE startup file while initializing AEManager class, see example below. If you define new startup file path then you must change this on jsx/AeIsReady.jsx file to.
 
 ### Usage
 ```bash
