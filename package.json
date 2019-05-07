@@ -1,6 +1,6 @@
 {
   "name": "@singularitycreations/ae-manager",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Check AE startup file",
   "main": "index.js",
   "scripts": {
