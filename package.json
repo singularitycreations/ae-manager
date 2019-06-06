@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/singularitycreations/ae-manager#readme",
   "dependencies": {
-    "@singularitycreations/process-manager": "^1.1.2"
+    "@singularitycreations/process-manager": "^1.1.3"
   },
   "devDependencies": {
-    "eslint": "^5.15.3",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0"
+    "eslint-plugin-import": "^2.17.3"
   }
 }
