@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/singularitycreations/ae-manager#readme",
   "dependencies": {
-    "@singularitycreations/process-manager": "^1.1.5"
+    "@singularitycreations/process-manager": "^1.1.8"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
